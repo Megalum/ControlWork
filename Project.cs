@@ -18,11 +18,31 @@ void FillArray(string[] array)
     }
 }
 
-int Length(string[] array, int criterion)
+string[] MainTask(string[] inputStringArray, int criterion)
 {
-    int count = 0;
-    for (int i = 0; i < array.Length; i++)
-        if (array[i].Length <= criterion)
-            count++;
-    return count;
+    int Length(string[] array, int criterion)
+    {
+        int count = 0;
+        for (int i = 0; i < array.Length; i++)
+            if (array[i].Length <= criterion)
+                count++;
+        return count;
+    }
+
+    int count = inputStringArray.Length;
+    string[] outputStringArray = new string[Length(inputStringArray, 3)];
+    int i = 0;
+    int index = 0;
+    while(i < count)
+    {
+        if(inputStringArray[i].Length <= criterion)
+        {
+            outputStringArray[index] = inputStringArray[i];
+            index = index + 1;
+        }
+        i = i + 1;
+    }
+
+    return outputStringArray;
 }
+
