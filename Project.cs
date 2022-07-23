@@ -46,3 +46,17 @@ string[] MainTask(string[] inputStringArray, int criterion)
     return outputStringArray;
 }
 
+void PrintArray(string[] input, string[] output)
+{
+    Console.Write("[");
+    for (int i = 0; i < input.Length; i++)
+        if(i == input.Length - 1)
+            Console.Write("\"{0}\"] -> [",input[i]);
+        else
+            Console.Write("\"{0}\", ",input[i]);
+    for(int i = 0; i < output.Length; i++)
+        if (i == output.Length - 1)
+             Console.Write("\"{0}\"]", output[i]);
+        else
+            Console.Write("\"{0}\", ", output[i]);
+}
