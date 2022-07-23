@@ -17,3 +17,12 @@ void FillArray(string[] array)
         array[i] = Console.ReadLine();
     }
 }
+
+int Length(string[] array, int criterion)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+        if (array[i].Length <= criterion)
+            count++;
+    return count;
+}
