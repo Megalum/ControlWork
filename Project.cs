@@ -60,3 +60,8 @@ void PrintArray(string[] input, string[] output)
         else
             Console.Write("\"{0}\", ", output[i]);
 }
+
+string[] input = CreateArray(6);
+FillArray(input);
+string[] output = MainTask(str, 3);
+PrintArray(input, output);
