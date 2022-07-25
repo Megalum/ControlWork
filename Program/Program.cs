@@ -1,7 +1,7 @@
-//1. Создание массива
+﻿//1. Создание массива
 //2. Заполнение массива
-//  2.1. Подсчет строк удовлетворяющий условию 
 //3. Основная задача
+//  3.1. Подсчет строк удовлетворяющий условию 
 //4. Печать массива
 
 string[] CreateArray(int count)
@@ -63,5 +63,5 @@ void PrintArray(string[] input, string[] output)
 
 string[] input = CreateArray(6);
 FillArray(input);
-string[] output = MainTask(str, 3);
+string[] output = MainTask(input, 3);
 PrintArray(input, output);
