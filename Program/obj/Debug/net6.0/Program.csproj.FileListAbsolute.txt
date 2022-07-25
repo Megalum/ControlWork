@@ -1,0 +1,15 @@
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+I:\Dima\GB.RU\Контрольная работа\Program\bin\Debug\net6.0\Program.exe
+I:\Dima\GB.RU\Контрольная работа\Program\bin\Debug\net6.0\Program.deps.json
+I:\Dima\GB.RU\Контрольная работа\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+I:\Dima\GB.RU\Контрольная работа\Program\bin\Debug\net6.0\Program.dll
+I:\Dima\GB.RU\Контрольная работа\Program\bin\Debug\net6.0\Program.pdb
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.dll
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\refint\Program.dll
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.pdb
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+I:\Dima\GB.RU\Контрольная работа\Program\obj\Debug\net6.0\ref\Program.dll
